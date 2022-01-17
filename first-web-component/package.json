@@ -9,7 +9,7 @@
     "buildpackage": "vue-cli-service build --target wc --name first-web-component ./src/main.js"
   },
   "dependencies": {
-    "core-js": "^3.20.2",
+    "core-js": "^3.20.3",
     "vue": "^2.6.11"
   },
   "devDependencies": {
